@@ -35,6 +35,15 @@
       ]
     ]
   },
+  "LOAD MORE ARTICLES": {
+    "translation": "ÎNCARCĂ MAI MULTE ARTICOLE",
+    "origin": [
+      [
+        "src/components/LoadMoreArticlesLink.js",
+        6
+      ]
+    ]
+  },
   "Legislation": {
     "translation": "Legislație",
     "origin": [
@@ -50,6 +59,45 @@
       [
         "src/components/Header.js",
         34
+      ]
+    ]
+  },
+  "consolidated buildings": {
+    "translation": "cladiri consolidate",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        26
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        35
+      ]
+    ]
+  },
+  "evaluated buildings": {
+    "translation": "cladiri evaluate",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        20
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        32
+      ]
+    ]
+  },
+  "people at risk": {
+    "translation": "oameni sub risc",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        14
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        29
       ]
     ]
   }

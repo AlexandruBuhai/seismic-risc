@@ -1,10 +1,9 @@
-import React from 'react';
+import React from "react";
+import { Trans } from "@lingui/macro";
 
 const LoadMoreArticlesLink = props => (
   <div className="load-more">
-    <button type="button" onClick={e => e.preventDefault()} {...props}>
-      ÎNCARCĂ MAI MULTE ARTICOLE
-    </button>
+    <button onClick={(e) => e.preventDefault()} {...props}><Trans>LOAD MORE ARTICLES</Trans></button>
   </div>
 );
 

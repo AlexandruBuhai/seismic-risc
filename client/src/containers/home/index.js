@@ -9,8 +9,8 @@ import StatisticFragment from './StatisticFragment';
 export default ({ language, languageChangeCallback }) => (
   <Layout language={language} languageChangeCallback={languageChangeCallback}>
     <SearchFragment />
-    <MapFragment />
-    <StatisticFragment />
+    <MapFragment language={language} />
+    <StatisticFragment language={language} />
     <ParagraphFragment />
   </Layout>
 );

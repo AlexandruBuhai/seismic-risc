@@ -31,6 +31,15 @@
       ]
     ]
   },
+  "LOAD MORE ARTICLES": {
+    "translation": "LOAD MORE ARTICLES",
+    "origin": [
+      [
+        "src/components/LoadMoreArticlesLink.js",
+        6
+      ]
+    ]
+  },
   "Legislation": {
     "origin": [
       [
@@ -44,6 +53,45 @@
       [
         "src/components/Header.js",
         34
+      ]
+    ]
+  },
+  "consolidated buildings": {
+    "translation": "consolidated buildings",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        26
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        35
+      ]
+    ]
+  },
+  "evaluated buildings": {
+    "translation": "evaluated buildings",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        20
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        32
+      ]
+    ]
+  },
+  "people at risk": {
+    "translation": "people at risk",
+    "origin": [
+      [
+        "src/components/Statistics.js",
+        14
+      ],
+      [
+        "src/containers/home/StatisticFragment.js",
+        29
       ]
     ]
   }
